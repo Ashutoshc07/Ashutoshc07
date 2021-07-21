@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashutosh
-- 👀 I’m  
+- 👀 I’m interrested in advanced Test Automation and DevOps tools and techniques.
 - 🌱 I’m currently learning react , AWS , Kubernetes and Test Frameworks like Jest and techniques like TDD.
 - 💞️ I’m looking to collaborate on DevOps Automation Projects.
 - 📫 How to reach me send me a mail at ashu.de20@gmail.com
